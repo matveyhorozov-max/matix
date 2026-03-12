@@ -41,7 +41,7 @@ export default function App() {
                 className="w-48 h-48 md:w-64 md:h-64 overflow-hidden rounded-2xl shadow-[0_0_50px_rgba(59,130,246,0.3)] bg-blue-600/10"
               >
                 <img 
-                  src="https://ibb.co/WNpthzs3" 
+                  src="https://i.ibb.co/9m3tD4Gv/image.png" 
                   alt="Matix Logo" 
                   className="w-full h-full object-contain"
                   referrerPolicy="no-referrer"
@@ -99,7 +99,7 @@ export default function App() {
                 </motion.button>
                 <div className="flex items-center gap-3">
                   <div className="w-12 h-12 rounded-lg overflow-hidden border border-white/30 bg-white/10">
-                    <img src="https://ibb.co/WNpthzs3" alt="Logo" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
+                    <img src="https://i.ibb.co/9m3tD4Gv/image.png" alt="Logo" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
                   </div>
                   <h2 className="text-2xl font-bold tracking-tight">Matix</h2>
                 </div>
